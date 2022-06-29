@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GURUNMG
-- 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Full Stack Developmenrt
+- 🌱 I’m currently learning Nodejs
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me , call or text 
 
