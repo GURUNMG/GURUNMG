@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @GURUNMG
+- 👋 Hi, I’m GURUBHARAN N M
 - 👀 I’m interested in Full Stack Developmenrt
 - 🌱 I’m currently learning Nodejs
 - 💞️ I’m looking to collaborate on programming
-- 📫 How to reach me , call or text 
+- 📫 How to reach me ,gurubharan.cs20@gmail.com
 
 <!---
 GURUNMG/GURUNMG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
