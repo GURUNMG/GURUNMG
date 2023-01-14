@@ -1,6 +1,6 @@
 - 👋 Hi, I’m GURUBHARAN N M
 - 👀 I’m interested in Full Stack Developmenrt
-- 🌱 I’m currently learning Reactjsa and Nodejs
+- 🌱 I’m currently learning Reactjs and Nodejs
 - 💞️ I’m looking to collaborate on backend using nodejs (Sql/NoSql)
 - 📫 How to reach me ,mailid: gurubharan.cs20@gmail.com
 
